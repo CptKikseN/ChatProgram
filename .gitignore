@@ -8,3 +8,6 @@ ChatServer/Server/.vs/Server/v15/.suo
 *.obj
 *.lastbuildstate
 *.suo 
+*.tlog
+ChatServer/Server/.vs/Server/v15/.suo
+*.idb
