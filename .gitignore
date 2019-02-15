@@ -2,3 +2,8 @@
 *.opendb
 *.db
 ChatServer/Server/.vs/Server/v15/.suo
+*.log
+*.ilk
+*.pdb
+*.obj
+*.lastbuildstate
