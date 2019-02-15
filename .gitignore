@@ -7,3 +7,4 @@ ChatServer/Server/.vs/Server/v15/.suo
 *.pdb
 *.obj
 *.lastbuildstate
+*.suo 
