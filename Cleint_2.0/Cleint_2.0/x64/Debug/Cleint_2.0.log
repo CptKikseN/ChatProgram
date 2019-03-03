@@ -1,0 +1,4 @@
+﻿  Cleint_2.0.cpp
+c:\users\lucrah\documents\github\chatprogram2.0\cleint_2.0\cleint_2.0\cleint_2.0.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\lucrah\documents\github\chatprogram2.0\cleint_2.0\cleint_2.0\cleint_2.0.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Cleint_2.0.vcxproj -> C:\Users\Lucrah\Documents\GitHub\ChatProgram2.0\Cleint_2.0\x64\Debug\Cleint_2.0.exe
